@@ -1,2 +1,2 @@
 # Adam
-It's the way from parsing to artificial intelligence. I named this project Adam.
+It's the way from parsing-bot to the artificial intelligence. 
